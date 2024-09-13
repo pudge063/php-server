@@ -1,19 +1,19 @@
-## PHP server for tests
+# PHP server for tests
 
-# requirements
+## requirements
 
 1. macos/ubuntu
 2. docker
 
-# start
+## start
 
 1. git clone https://github.com/pudge063/php-server
 2. docker compose up -d
 
-# stop
+## stop
 
 docker compose down
 
-# open
+## open
 
 http://127.0.0.1
